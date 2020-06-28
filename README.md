@@ -28,8 +28,8 @@ json-server monsters.json
   You should have fields for name, age, and description, and a 'Create Monster
   Button'. When you click the button, the monster should be added to the list
   and saved in the API. -->
-- At the end of the list of monsters, show a button. When clicked, the button
-  should load the next 50 monsters and show them.
+<!-- - At the end of the list of monsters, show a button. When clicked, the button
+  should load the next 50 monsters and show them. -->
 
 ## API methods
 
